@@ -1,5 +1,5 @@
 # remove
-rm -rf dist/
+rm -r dist/
 
 # build
 python -m build
