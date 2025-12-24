@@ -2,7 +2,7 @@
 Example: Setup Payment using EShopBox SDK
 """
 
-from eshopbox import EShopBoxSDK
+from eshopbox import EShopBox
 import os
 from dotenv import load_dotenv
 load_dotenv()
@@ -214,7 +214,7 @@ def update_transaction_rule(sdk):
 
 def main():
     # Initialize SDK
-    sdk = EShopBoxSDK(
+    sdk = EShopBox(
         workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
         client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
         client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

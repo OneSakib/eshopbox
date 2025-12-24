@@ -2,7 +2,7 @@ Products
 ========
 
 This page provides examples on how to use the **Products** module of the
-``EShopBoxSDK`` to manage products, brands, and inventory.
+``EShopBox`` to manage products, brands, and inventory.
 
 Basic Setup
 -----------
@@ -11,12 +11,12 @@ Before running any operation, initialize the SDK:
 
 .. code-block:: python
 
-    from eshopbox import EShopBoxSDK
+    from eshopbox import EShopBox
     import os
     from dotenv import load_dotenv
     load_dotenv()
 
-    sdk = EShopBoxSDK(
+    sdk = EShopBox(
         workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
         client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
         client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

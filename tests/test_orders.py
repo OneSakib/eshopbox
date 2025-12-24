@@ -1,6 +1,6 @@
 
 import pytest
-from eshopbox import EShopBoxSDK
+from eshopbox import EShopBox
 from eshopbox.exceptions import APIError, ValidationError
 
 
@@ -8,7 +8,7 @@ class TestOrdersAPI:
 
     @pytest.fixture
     def sdk(self):
-        return EShopBoxSDK(
+        return EShopBox(
             workspace="test",
             client_id="test_id",
             client_secret="test_secret",

@@ -1,10 +1,10 @@
 import pytest
-from eshopbox import EShopBoxSDK
+from eshopbox import EShopBox
 
 
 @pytest.fixture
 def sdk():
-    return EShopBoxSDK(
+    return EShopBox(
         workspace="test",
         client_id="test_id",
         client_secret="test_secret",

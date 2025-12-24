@@ -14,13 +14,13 @@ Initialize SDK
 
 Before calling any API, initialize the SDK::
 
-    from eshopbox import EShopBoxSDK
+    from eshopbox import EShopBox
     import os
     from dotenv import load_dotenv
 
     load_dotenv()
 
-    sdk = EShopBoxSDK(
+    sdk = EShopBox(
         workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
         client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
         client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

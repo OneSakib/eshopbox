@@ -14,7 +14,7 @@ Example: Setup Webhook Using EShopBox SDK
     """
 
     import os
-    from eshopbox.client import EShopBoxSDK
+    from eshopbox.client import EShopBox
     from dotenv import load_dotenv
     load_dotenv()
 
@@ -69,7 +69,7 @@ Example: Setup Webhook Using EShopBox SDK
 
 
     def main():
-        sdk = EShopBoxSDK(
+        sdk = EShopBox(
             workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
             client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
             client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

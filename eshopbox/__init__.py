@@ -1,7 +1,7 @@
 """EShopBox Python SDK - A comprehensive package for EShopBox shipping APIs"""
 
 from eshopbox.__version__ import __version__, __author__, __email__
-from eshopbox.client import EShopBoxSDK
+from eshopbox.client import EShopBox
 from eshopbox.exceptions import (
     EShopBoxException,
     AuthenticationError,
@@ -12,7 +12,7 @@ from eshopbox.exceptions import (
 )
 
 __all__ = [
-    'EShopBoxSDK',
+    'EShopBox',
     'EShopBoxException',
     'AuthenticationError',
     'APIError',

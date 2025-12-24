@@ -19,7 +19,7 @@ The following code demonstrates how to authenticate with EShopBox and calculate 
     """
 
     import os
-    from eshopbox.client import EShopBoxSDK
+    from eshopbox.client import EShopBox
     from dotenv import load_dotenv
     load_dotenv()
 
@@ -41,7 +41,7 @@ The following code demonstrates how to authenticate with EShopBox and calculate 
 
 
     def main():
-        sdk = EShopBoxSDK(
+        sdk = EShopBox(
             workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
             client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
             client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

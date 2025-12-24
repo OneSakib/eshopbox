@@ -15,7 +15,7 @@ Example: Setup Wrapper Using EShopBox SDK
 
 .. code-block:: python
 
-    from eshopbox import EShopBoxSDK
+    from eshopbox import EShopBox
     import os
     from dotenv import load_dotenv
     load_dotenv()
@@ -76,7 +76,7 @@ Example: Setup Wrapper Using EShopBox SDK
 
 
     def main():
-        sdk = EShopBoxSDK(
+        sdk = EShopBox(
             workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
             client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
             client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

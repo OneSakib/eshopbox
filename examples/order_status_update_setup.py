@@ -2,7 +2,7 @@
 Example: Track shipment using EShopBox SDK
 """
 
-from eshopbox import EShopBoxSDK
+from eshopbox import EShopBox
 import os
 from dotenv import load_dotenv
 load_dotenv()
@@ -98,7 +98,7 @@ def update(sdk):
 
 
 def main():
-    sdk = EShopBoxSDK(
+    sdk = EShopBox(
         workspace=os.getenv('ESHOPBOX_WORKSPACE', ''),
         client_id=os.getenv('ESHOPBOX_CLIENT_ID', ''),
         client_secret=os.getenv('ESHOPBOX_SECRET_ID', ''),

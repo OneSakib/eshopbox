@@ -5,9 +5,9 @@ Initialize SDK:
 
 .. code-block:: python
 
-   from eshopbox import EShopBoxSDK
+   from eshopbox import EShopBox
 
-   sdk = EShopBoxSDK(
+   sdk = EShopBox(
        workspace="demo",
        client_id="123",
        client_secret="abc",

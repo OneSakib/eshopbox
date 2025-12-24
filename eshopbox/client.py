@@ -16,12 +16,12 @@ from eshopbox.api.settings import SettingsAPI
 # Import other API modules...
 
 
-class EShopBoxSDK:
+class EShopBox:
     """
     Main SDK class for EShopBox API
 
     Example:
-        >>> sdk = EShopBoxSDK(
+        >>> sdk = EShopBox(
         ...     workspace="myshop",
         ...     client_id="client_id",
         ...     client_secret="secret",
