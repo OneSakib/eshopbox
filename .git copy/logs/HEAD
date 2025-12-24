@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000 b5bf91c1eeb622ba65416688416d0281a2902100 Sakib Malik <sakib@wisdominfosoft.com> 1764754999 +0530	commit (initial): first
+b5bf91c1eeb622ba65416688416d0281a2902100 4c6b02e2e3c9a49772be80eb54e33b017b935e36 Sakib Malik <sakib@wisdominfosoft.com> 1764755022 +0530	pull --allow-unrelated-histories: Merge made by the 'ort' strategy.
+4c6b02e2e3c9a49772be80eb54e33b017b935e36 e1f1bcfdb7d1fdf2b8c81877d9cffca603b41c34 Sakib Malik <sakib@wisdominfosoft.com> 1764755097 +0530	commit: giignore
+e1f1bcfdb7d1fdf2b8c81877d9cffca603b41c34 98ef1d690d77f30609409f0616273cf5f10c0fd2 Sakib Malik <sakib@wisdominfosoft.com> 1764755185 +0530	commit: first
+98ef1d690d77f30609409f0616273cf5f10c0fd2 47c18346b21d9e400564609b2ce1df1e54e2f2bd Sakib Malik <sakib@wisdominfosoft.com> 1764755525 +0530	commit: some changes
+47c18346b21d9e400564609b2ce1df1e54e2f2bd 3d380fd2b4ca1f0b8f4f4f042b87397e9fdc70db Sakib Malik <sakib@wisdominfosoft.com> 1764756260 +0530	commit: some added
+3d380fd2b4ca1f0b8f4f4f042b87397e9fdc70db 7f9bbd858f4147cdb3c1e79cfe9d3b56681cb962 Sakib Malik <sakib@wisdominfosoft.com> 1764761062 +0530	commit: new codes complete
+7f9bbd858f4147cdb3c1e79cfe9d3b56681cb962 9a4122e4bf5f4aab6ca1554adb0b634dc155419b Sakib Malik <sakib@wisdominfosoft.com> 1764761212 +0530	commit: final commit
+9a4122e4bf5f4aab6ca1554adb0b634dc155419b dc9bfbe3d091d1821d68eee7da3019b133b2bd01 Sakib Malik <sakib@wisdominfosoft.com> 1764763357 +0530	commit: build and upload
+dc9bfbe3d091d1821d68eee7da3019b133b2bd01 2c678fce0515d04a81eea790ad0d4de0edebe47c Sakib Malik <sakib@wisdominfosoft.com> 1764836571 +0530	commit: new added
+2c678fce0515d04a81eea790ad0d4de0edebe47c 0ea960f5c56a4f7963fe833bdbb286fee3ff3ee3 Sakib Malik <sakib@wisdominfosoft.com> 1764855596 +0530	commit: new changes
+0ea960f5c56a4f7963fe833bdbb286fee3ff3ee3 2ff41c84d962eee7a0d17f497ebc6a268301b99e Sakib Malik <sakib@wisdominfosoft.com> 1764855805 +0530	commit: new changes
+2ff41c84d962eee7a0d17f497ebc6a268301b99e dcd9ab9a0d5cdcbbdcb95fc31ce6d45ba242a731 Sakib Malik <sakib@wisdominfosoft.com> 1764914403 +0530	commit: changes
+dcd9ab9a0d5cdcbbdcb95fc31ce6d45ba242a731 7ef66adfcfabc080d0da7df265d997dee62794d3 Sakib Malik <sakib@wisdominfosoft.com> 1764914436 +0530	commit: sg
+7ef66adfcfabc080d0da7df265d997dee62794d3 7cd1f3ebc9ff160c6f88e055538813648bc17061 Sakib Malik <sakib@wisdominfosoft.com> 1764914585 +0530	commit: changes
+7cd1f3ebc9ff160c6f88e055538813648bc17061 b797d418d28d276dad8e71b86615b01eea30b822 Sakib Malik <sakib@wisdominfosoft.com> 1764915168 +0530	commit: new build
+b797d418d28d276dad8e71b86615b01eea30b822 1eae2970774592fc5c952afea1e50ff8170bd249 Sakib Malik <sakib@wisdominfosoft.com> 1764916226 +0530	commit: doc update
+1eae2970774592fc5c952afea1e50ff8170bd249 32e48538326b150d70fb2df340689cc2cbb136bb Sakib Malik <sakib@wisdominfosoft.com> 1764916358 +0530	commit: doc update
+32e48538326b150d70fb2df340689cc2cbb136bb f1861c0b221b36c38c98d99154959ddf58fab737 Sakib Malik <sakib@wisdominfosoft.com> 1764916532 +0530	commit: live build
+f1861c0b221b36c38c98d99154959ddf58fab737 491dd19a367a6e055361d19a6eb962ba0551c80c Sakib Malik <sakib@wisdominfosoft.com> 1765263731 +0530	commit: new updates
+491dd19a367a6e055361d19a6eb962ba0551c80c d5c25c6406cc4227b7e9c54357111c554c728379 Sakib Malik <sakib@wisdominfosoft.com> 1765264664 +0530	commit: read docs added
+d5c25c6406cc4227b7e9c54357111c554c728379 c7b4a902088e52c7b1de10082341b341d2e2b149 Sakib Malik <sakib@wisdominfosoft.com> 1765264729 +0530	commit: version update
+c7b4a902088e52c7b1de10082341b341d2e2b149 e3457e1416e264b17f0dcaf4ac545bdf6bcfd1e9 Sakib Malik <sakib@wisdominfosoft.com> 1765265750 +0530	commit: remove github actions
+e3457e1416e264b17f0dcaf4ac545bdf6bcfd1e9 acdce98bdbe660dbfd79ae7046bc4b25914eb394 Sakib Malik <sakib@wisdominfosoft.com> 1765266643 +0530	commit: new build
+acdce98bdbe660dbfd79ae7046bc4b25914eb394 d0245f8cd957ad5345614c9193f3f947a077c9af Sakib Malik <sakib@wisdominfosoft.com> 1765354488 +0530	commit: new docs error fixed
+d0245f8cd957ad5345614c9193f3f947a077c9af 36e1a1eaee2211e56fe82c5213a255c7beaf0ee8 Sakib Malik <sakib@wisdominfosoft.com> 1765354761 +0530	commit: inventory doc added
+36e1a1eaee2211e56fe82c5213a255c7beaf0ee8 a695f155623fd05176db55833a1d44d7587f23be Sakib Malik <sakib@wisdominfosoft.com> 1765354948 +0530	commit: new docs added
+a695f155623fd05176db55833a1d44d7587f23be 759fecfc2d1e40f2c9a654c4f61efcdaf296b56a Sakib Malik <sakib@wisdominfosoft.com> 1765355673 +0530	commit: docs updated
+759fecfc2d1e40f2c9a654c4f61efcdaf296b56a d89090e0d7d2cc6a58ba93c503ef02199d90922e Sakib Malik <sakib@wisdominfosoft.com> 1765360984 +0530	commit: version changes
