@@ -1,5 +1,5 @@
 """
-Example: Manage Inventory using EShopBox SDK
+Example: Manage Inventory using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -19,16 +19,13 @@ def main():
     sku = "SKU1234"
 
     print(f"Fetching inventory for {sku}...")
-    inventory = sdk.inventory.get_stock(sku)
+    payload = {
+        'skus': []
+    }
+    inventory = sdk.inventory.get_inventory(payload)
     print("Current stock:", inventory)
 
-    print(f"Updating inventory for {sku}...")
-    update_payload = {
-        "sku": sku,
-        "quantity": 25
-    }
-
-    updated = sdk.inventory.update_stock(update_payload)
+    updated = sdk.inventory.get_inventory_summary()
     print("Updated stock:", updated)
 
 

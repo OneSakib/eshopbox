@@ -1,5 +1,5 @@
 """
-Example: Setup Payment using EShopBox SDK
+Example: Setup Payment using EShopBox
 """
 
 from eshopbox import EShopBox

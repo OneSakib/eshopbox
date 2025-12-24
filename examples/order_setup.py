@@ -1,5 +1,5 @@
 """
-Example: Setup order using EShopBox SDK
+Example: Setup order using EShopBox
 """
 
 from eshopbox import EShopBox

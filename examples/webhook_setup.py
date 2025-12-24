@@ -1,5 +1,5 @@
 """
-Example: Setup webhook using EShopBox SDK
+Example: Setup webhook using EShopBox
 """
 
 import os

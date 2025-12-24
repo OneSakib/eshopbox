@@ -4,10 +4,10 @@ Rate Calculator
 The Rate Calculator API allows you to compute shipping charges based on 
 origin/destination pincodes, weight, dimensions, journey type, and payment mode.
 
-This guide explains how to initialize the EShopBox SDK and use the 
+This guide explains how to initialize the EShopBox and use the 
 ``rate_calculator`` interface.
 
-Example: Setup Rate Calculator Using EShopBox SDK
+Example: Setup Rate Calculator Using EShopBox
 -------------------------------------------------
 
 The following code demonstrates how to authenticate with EShopBox and calculate rates:
@@ -15,7 +15,7 @@ The following code demonstrates how to authenticate with EShopBox and calculate 
 .. code-block:: python
 
     """
-    Example: Setup Rate Calculator using EShopBox SDK
+    Example: Setup Rate Calculator using EShopBox
     """
 
     import os

@@ -1,5 +1,5 @@
 """
-Example: Setup Rate Calculator using EShopBox SDK
+Example: Setup Rate Calculator using EShopBox
 """
 
 import os

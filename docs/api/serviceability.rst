@@ -11,13 +11,13 @@ It provides multiple methods:
 
 This page demonstrates how to use each method via the EShopBox Python SDK.
 
-Example: Setup Serviceability Using EShopBox SDK
+Example: Setup Serviceability Using EShopBox
 ------------------------------------------------
 
 .. code-block:: python
 
     """
-    Example: Setup Serviceability using EShopBox SDK
+    Example: Setup Serviceability using EShopBox
     """
 
     import os

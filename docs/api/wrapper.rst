@@ -1,7 +1,7 @@
 Wrapper
 =======
 
-The **Wrapper** module of the EShopBox SDK provides higher-level methods to manage orders, shipping, returns, tracking, and webhook registration.  
+The **Wrapper** module of the EShopBox provides higher-level methods to manage orders, shipping, returns, tracking, and webhook registration.  
 
 You can use it to:
 
@@ -10,7 +10,7 @@ You can use it to:
 - Cancel and track shipments
 - Register webhooks
 
-Example: Setup Wrapper Using EShopBox SDK
+Example: Setup Wrapper Using EShopBox
 -----------------------------------------
 
 .. code-block:: python

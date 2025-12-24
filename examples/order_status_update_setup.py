@@ -1,5 +1,5 @@
 """
-Example: Track shipment using EShopBox SDK
+Example: Track shipment using EShopBox
 """
 
 from eshopbox import EShopBox

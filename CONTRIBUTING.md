@@ -1,4 +1,4 @@
-# Contributing to EShopBox SDK
+# Contributing to EShopBox
 
 Thank you for your interest in contributing!
 

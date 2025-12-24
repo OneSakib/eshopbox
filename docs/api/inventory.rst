@@ -4,7 +4,7 @@
 Inventory Management
 =====================
 
-The EShopBox SDK provides simple methods to **fetch** and **update** inventory
+The EShopBox provides simple methods to **fetch** and **update** inventory
 for any SKU in your workspace.
 
 This guide demonstrates how to use:
@@ -20,12 +20,12 @@ Basic Usage Example
 ------------------------
 
 Below is a complete working script showing how to manage inventory using the
-EShopBox SDK.
+EShopBox.
 
 .. code-block:: python
 
     """
-    Example: Manage Inventory using EShopBox SDK
+    Example: Manage Inventory using EShopBox
     """
 
     from eshopbox import EShopBox

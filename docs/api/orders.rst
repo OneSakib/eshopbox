@@ -4,7 +4,7 @@
 Order Management
 =====================
 
-The EShopBox SDK provides APIs to create, retrieve, cancel, and manage customer
+The EShopBox provides APIs to create, retrieve, cancel, and manage customer
 orders from your workspace. This page explains all order-related operations with
 complete examples.
 
@@ -16,12 +16,12 @@ Basic Usage Example
 ------------------------
 
 Below is a complete working script demonstrating all available order
-operations via the EShopBox SDK.
+operations via the EShopBox.
 
 .. code-block:: python
 
     """
-    Example: Setup order using EShopBox SDK
+    Example: Setup order using EShopBox
     """
 
     from eshopbox import EShopBox

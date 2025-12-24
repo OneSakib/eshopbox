@@ -1,16 +1,16 @@
 Webhooks
 ========
 
-The **Webhooks** module in the EShopBox SDK allows you to manage webhook subscriptions for workspace events.  
+The **Webhooks** module in the EShopBox allows you to manage webhook subscriptions for workspace events.  
 You can list, create, update, and retrieve webhooks programmatically.
 
-Example: Setup Webhook Using EShopBox SDK
+Example: Setup Webhook Using EShopBox
 -----------------------------------------
 
 .. code-block:: python
 
     """
-    Example: Setup webhook using EShopBox SDK
+    Example: Setup webhook using EShopBox
     """
 
     import os

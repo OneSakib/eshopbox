@@ -13,6 +13,7 @@ from eshopbox.api.order_status_update import OrderStatusUpdateAPI
 from eshopbox.api.wrapper import WrapperAPI
 from eshopbox.api.payments import PaymentsAPI
 from eshopbox.api.settings import SettingsAPI
+from eshopbox.api.inventory import InventoryAPI
 # Import other API modules...
 
 
@@ -38,7 +39,7 @@ class EShopBox:
         refresh_token: str
     ):
         """
-        Initialize EShopBox SDK
+        Initialize EShopBox
 
         Args:
             workspace: Your EShopBox workspace name
@@ -62,3 +63,4 @@ class EShopBox:
         self.wrapper = WrapperAPI(workspace, self.auth)
         self.payments = PaymentsAPI(workspace, self.auth)
         self.settings = SettingsAPI(workspace, self.auth)
+        self.inventory = InventoryAPI(workspace, self.auth)

@@ -34,7 +34,7 @@ order = sdk.orders.create({...})
 
 ```
 """
-Example: Setup order using EShopBox SDK
+Example: Setup order using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -178,7 +178,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Manage Inventory using EShopBox SDK
+Example: Manage Inventory using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -220,7 +220,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Track shipment using EShopBox SDK
+Example: Track shipment using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -343,7 +343,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup Payment using EShopBox SDK
+Example: Setup Payment using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -586,7 +586,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup Products using EShopBox SDK
+Example: Setup Products using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -814,7 +814,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup Rate Calculator using EShopBox SDK
+Example: Setup Rate Calculator using EShopBox
 """
 
 import os
@@ -858,7 +858,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup Serviceability using EShopBox SDK
+Example: Setup Serviceability using EShopBox
 """
 
 import os
@@ -929,7 +929,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Track shipment using EShopBox SDK
+Example: Track shipment using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -1134,7 +1134,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup webhook using EShopBox SDK
+Example: Setup webhook using EShopBox
 """
 
 import os
@@ -1215,7 +1215,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup Wrapper using EShopBox SDK
+Example: Setup Wrapper using EShopBox
 """
 
 from eshopbox import EShopBox
@@ -1497,7 +1497,7 @@ if __name__ == "__main__":
 
 ```
 """
-Example: Setup Settings using EShopBox SDK
+Example: Setup Settings using EShopBox
 """
 
 from eshopbox import EShopBox

@@ -1,7 +1,7 @@
 Shipments
 =========
 
-The **Shipments** module of the EShopBox SDK allows you to:
+The **Shipments** module of the EShopBox allows you to:
 
 - Retrieve all shipments  
 - Fetch a specific shipment  
@@ -10,13 +10,13 @@ The **Shipments** module of the EShopBox SDK allows you to:
 
 This page shows how to interact with the Shipments API through the Python SDK.
 
-Example: Track Shipment Using EShopBox SDK
+Example: Track Shipment Using EShopBox
 ------------------------------------------
 
 .. code-block:: python
 
     """
-    Example: Track shipment using EShopBox SDK
+    Example: Track shipment using EShopBox
     """
 
     from eshopbox import EShopBox

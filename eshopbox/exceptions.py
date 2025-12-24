@@ -1,8 +1,8 @@
-"""Custom exceptions for EShopBox SDK"""
+"""Custom exceptions for EShopBox"""
 
 
 class EShopBoxException(Exception):
-    """Base exception for EShopBox SDK"""
+    """Base exception for EShopBox"""
     pass
 
 

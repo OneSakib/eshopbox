@@ -1,5 +1,5 @@
 """
-Example: Setup Settings using EShopBox SDK
+Example: Setup Settings using EShopBox
 """
 
 from eshopbox import EShopBox

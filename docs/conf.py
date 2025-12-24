@@ -5,7 +5,7 @@ from datetime import datetime
 # Add project root
 sys.path.insert(0, os.path.abspath("../"))
 
-project = "EShopBox SDK"
+project = "EShopBox"
 author = "Kashwork Technologies"
 year = datetime.now().year
 copyright = f"{year}, {author}"

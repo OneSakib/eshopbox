@@ -1,5 +1,5 @@
 """
-Example: Setup Serviceability using EShopBox SDK
+Example: Setup Serviceability using EShopBox
 """
 
 import os

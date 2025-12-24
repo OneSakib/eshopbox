@@ -1,4 +1,4 @@
-"""Base API class for EShopBox SDK"""
+"""Base API class for EShopBox"""
 
 import requests
 from typing import Dict, Optional, Any

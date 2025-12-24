@@ -1,18 +1,18 @@
 Settings
 ========
 
-The **Settings** module of the EShopBox SDK provides APIs for managing
+The **Settings** module of the EShopBox provides APIs for managing
 workspaces, portals, sales channels, contacts, fulfillment centers, and team members.
 
 This page documents all available Settings operations with examples.
 
-Example: Setup Settings Using EShopBox SDK
+Example: Setup Settings Using EShopBox
 ------------------------------------------
 
 .. code-block:: python
 
     """
-    Example: Setup Settings using EShopBox SDK
+    Example: Setup Settings using EShopBox
     """
 
     from eshopbox import EShopBox

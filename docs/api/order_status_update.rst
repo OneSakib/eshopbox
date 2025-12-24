@@ -4,7 +4,7 @@
 Order Status Update & Shipment Tracking
 =========================================
 
-The ``order_status_update`` module in the EShopBox SDK allows you to:
+The ``order_status_update`` module in the EShopBox allows you to:
 
 - Generate labels & AWB numbers  
 - Fetch courier names and assigned AWB  
@@ -24,7 +24,7 @@ Below is a complete example demonstrating all functions of the
 .. code-block:: python
 
     """
-    Example: Track shipment using EShopBox SDK
+    Example: Track shipment using EShopBox
     """
 
     from eshopbox import EShopBox

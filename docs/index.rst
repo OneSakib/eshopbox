@@ -1,4 +1,4 @@
-EShopBox SDK Documentation
+EShopBox Documentation
 ==========================
 
 A Python SDK for interacting with the EShopBox API.

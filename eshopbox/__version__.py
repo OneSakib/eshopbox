@@ -1,4 +1,4 @@
-"""Version information for EShopBox SDK"""
+"""Version information for EShopBox"""
 
 __version__ = '1.1.8'
 __author__ = 'Sakib Mailk'
